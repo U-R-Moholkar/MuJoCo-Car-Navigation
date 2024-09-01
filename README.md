@@ -7,7 +7,7 @@ This project is a simulation environment designed using MuJoCo, focusing on navi
 ## Files Included
 
 - **maze.xml**: This XML file defines the simulation environment. It includes the layout of the maze, the position and configuration of obstacles, and the physical properties of the simulated car.
-- **mujoco_simulation.py**: This Python script runs the simulation using the MuJoCo Python bindings (MuJoCo Py). It includes the code to load the XML file, initialize the simulation, and control the car's movements through the maze.
+- **mujoco_car_navigation.py**: This Python script runs the simulation using the MuJoCo Python bindings (MuJoCo Py). It includes the code to load the XML file, initialize the simulation, and control the car's movements through the maze.
 
 ## Features
 
