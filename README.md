@@ -15,6 +15,14 @@ This project is a simulation environment designed using MuJoCo, focusing on navi
 - **Dynamic Car Model**: The car model is simulated with realistic physical properties, including joints, actuators, and sensors to detect forces.
 - **Simulation Controls**: The simulation can be controlled programmatically through the Python script, allowing for testing various navigation algorithms.
 
+## Neural Network Model
+
+The car's movements are controlled using a Deep Q-Network (DQN).
+
+## Simulation
+![Car Navigation](data/Maze_Simulation.png)
+
+
 ## Dependencies
 
 To run this project, you'll need the following dependencies:
